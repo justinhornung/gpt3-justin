@@ -17,10 +17,16 @@ const WhatGPT3 = () => (
     <div className="gpt3__whatgpt3-container">
       <Feature
         title="Chatbots"
-        text="Duis fugiat amet est occaecat incididunt tempor nisi exercitation cupidatat eiusmod proident."
+        text="Duis fugiat amet est occaecat incididunt tempor nisi exercitation cupidatat eiusmod proident. Irure nostrud proident elit nostrud magna deserunt velit occaecat occaecat."
       />
-      <Feature title="Knowledgebase" text="Do pariatur adipisicing dolore ipsum anim enim cillum labore." />
-      <Feature title="Education" text="Tempor incididunt sint mollit mollit proident irure irure quis." />
+      <Feature
+        title="Knowledgebase"
+        text="Do pariatur adipisicing dolore ipsum anim enim cillum labore. Nulla sunt irure consequat culpa ad adipisicing sint amet."
+      />
+      <Feature
+        title="Education"
+        text="Tempor incididunt sint mollit mollit proident irure irure quis. Nostrud ullamco laboris nulla voluptate mollit labore eu Lorem sunt enim nulla dolore."
+      />
     </div>
   </div>
 );

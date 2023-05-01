@@ -34,7 +34,7 @@
 
 .gpt3__features-container__feature-text {
   flex: 2;
-  max-width: 390px;
+  max-width: 1170px;
   display: flex;
 }
 .gpt3__features-container__feature-text p {
